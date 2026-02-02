@@ -20,7 +20,7 @@
             "title": "The Best Example Shoe | Awesome Brand",
             "description": "Discover the amazing comfort and style of our Example Shoe. Perfect for all occasions and built to last."
         },
-        "/contact": {
+        "/pages/contact": {
             "title": "Contact Us | Awesome Brand",
             "description": "Get in touch with the Awesome Brand team. We're here to help with any questions you may have."
         },
@@ -82,5 +82,6 @@
             applySEO(ruleForPath);
         }
     }
+
 
 })();
